@@ -1,0 +1,2 @@
+# weights_of_lstm
+trained_model_weight
